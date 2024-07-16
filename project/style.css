@@ -1,0 +1,15 @@
+a
+{
+    text-decoration: none;
+     color:black;
+     margin-right: 50px;
+     padding:100pxpx;
+
+}
+nav{
+    background-color: blueviolet;
+    padding: 20px;
+}
+a:hover{
+    color:aqua;
+}
